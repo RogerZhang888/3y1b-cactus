@@ -1,9 +1,9 @@
 import { useState, useEffect } from "react"
 import axios from "axios"
-import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
-import { ScrollArea } from "@/components/ui/scroll-area"
-import { Card } from "@/components/ui/card"
+import { Button } from "./components/ui/button"
+import { Input } from "./components/ui/input"
+import { ScrollArea } from "./components/ui/scroll-area"
+import { Card } from "./components/ui/card"
 
 type Message = {
   role: "user" | "assistant"
