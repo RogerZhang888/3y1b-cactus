@@ -63,12 +63,12 @@
 }
 
 .message.user {
-  background: #e3f2fd;
+  background: #101010;
   text-align: right;
 }
 
 .message.assistant {
-  background: #f1f1f1;
+  background: #712626;
 }
 
 .input-box {
